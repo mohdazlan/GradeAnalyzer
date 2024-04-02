@@ -1,0 +1,9 @@
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\bin\x64\Debug\Academic Achiever.exe.config
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\bin\x64\Debug\Academic Achiever.exe
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic_Achiever.frmLogin.resources
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic_Achiever.Resources.resources
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic Achiever.vbproj.GenerateResource.Cache
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic Achiever.exe
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic Achiever.pdb
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\bin\x64\Debug\Academic Achiever.pdb
+C:\Users\X1 CARBON\documents\visual studio 2015\Projects\Academic Achiever\Academic Achiever\obj\x64\Debug\Academic Achiever.vbprojResolveAssemblyReference.cache
